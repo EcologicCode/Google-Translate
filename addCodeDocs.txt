@@ -1,0 +1,1 @@
+<button onclick="location.href='/../index.php?lang=n&url=-'">Language</button><button onclick="location.href='/../Credits.html'">Credits</button>
